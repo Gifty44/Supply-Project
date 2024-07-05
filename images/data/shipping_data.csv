@@ -1,0 +1,11 @@
+date,origin,destination,distance_km,weight_kg,shipping_cost,carrier
+2023-01-05,Toronto,Montreal,541,1250,875.50,CarrierA
+2023-01-07,Vancouver,Calgary,676,980,1250.75,CarrierB
+2023-01-10,Montreal,Halifax,1200,1500,1875.25,CarrierA
+2023-01-15,Toronto,Ottawa,400,800,650.00,CarrierC
+2023-01-20,Calgary,Edmonton,300,1100,525.50,CarrierB
+2023-02-01,Montreal,Toronto,541,1300,880.25,CarrierA
+2023-02-05,Halifax,Montreal,1200,900,1650.75,CarrierC
+2023-02-10,Ottawa,Toronto,400,750,640.50,CarrierA
+2023-02-15,Edmonton,Calgary,300,1050,515.25,CarrierB
+2023-02-20,Vancouver,Edmonton,1160,1400,1825.50,CarrierC
